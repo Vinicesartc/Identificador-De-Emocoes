@@ -1,0 +1,25 @@
+  body
+  {
+    color: white;
+    background: linear-gradient(rgba(104, 179, 223, 0.74), rgb(106, 211, 153), pink );
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects
+  {
+    color: rgb(224, 56, 56);
+  }
+
+  #resultObjectName  , #resultObjectAccuracy
+  {
+    color: darkorchid;
+  }
